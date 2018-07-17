@@ -1,0 +1,13 @@
+{
+	"name": "ShoppingBot",
+	"version": "0.0.1",
+	"dependencies": {
+		"express":"^4.13.4",
+		"request":"^2.72.0",
+		"body-parser":"1",
+		"mongodb": "^2.2.11"
+	},
+	"engines": {
+		"node": "^5.9.1"
+	}
+}
